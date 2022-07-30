@@ -27,6 +27,9 @@
     <!-- Used in confirmation dialogs as the action that the user will tap to turn on the feature. [CHAR LIMIT=40]-->
     <string name="confirmation_turn_on">Turn on</string>
 
+    <!-- Min refresh rate -->
+    <string name="min_refresh_rate_title">Minimum refresh rate</string>
+
     <!-- Device Info screen. Used for a status item's value when the proper value is not known -->
     <string name="device_info_default">Unknown</string>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
